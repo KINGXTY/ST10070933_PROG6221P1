@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ST100700933PROGP1/1.0.0": {
+        "runtime": {
+          "ST100700933PROGP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ST100700933PROGP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
